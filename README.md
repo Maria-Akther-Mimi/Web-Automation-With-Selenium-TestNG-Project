@@ -1,7 +1,7 @@
 # Web(OrangeHRM)-Automation-With-Selenium-TestNG-Project
 
 
-## Technology used:
+## Technology used
 - Java
 - Intellij idea
 - Allure
@@ -9,7 +9,7 @@
 ## Tool used in this Project
  - Selenium
 
-## Framework used in this Project:
+## Framework used in this Project
   - TestNG
 
 ## Project Scenario
