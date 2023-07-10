@@ -12,7 +12,7 @@
 ## Framework used in this Project:
   - TestNG
 
-## Scenario
+## Project Scenario
 1. Login as a admin to https://opensource-demo.orangehrmlive.com/  
 2. Go to PIM menu and create a new employee. Save the employee firstname, lastname, employeeid, username and password into JSONArray file. Generate random password which meets following criteria:  
 For a strong password, please use a hard to guess combination of text with upper and lower case characters, symbols and numbers. Assert if employee is created successfully.  
