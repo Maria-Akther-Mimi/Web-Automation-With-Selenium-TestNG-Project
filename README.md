@@ -37,8 +37,9 @@ https://docs.google.com/spreadsheets/d/1Dd1rVF3xFnJ6j2MZ8QOLUWyCOfSwKKaa/edit?us
 ## How to run this project
 - Clone this project
 - Run Master suite (Regression testing) by: <br>
--  ```gradle clean test -PsuiteFile="MasterSuite.xml"```
-- Run SmokeMaster suite (Smoke testing) by: ```gradle clean test -PsuiteFile="SmokeMasterSuite.xml"```
+  ```gradle clean test -PsuiteFile="MasterSuite.xml"```
+- Run SmokeMaster suite (Smoke testing) by: <br>
+  ```gradle clean test -PsuiteFile="SmokeMasterSuite.xml"```
 - Generate allure report by these command: <br>
   ```allure generate allure-results --clean -output```  
   ```allure serve allure-results```
