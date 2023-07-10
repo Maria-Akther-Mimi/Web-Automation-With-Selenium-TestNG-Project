@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="Orange HRM demo automation(Smoke)">
+    <suite-files>
+        <suite-file path="smoke/LoginSuite.xml"></suite-file>
+        <suite-file path="smoke/EmployeeSuite.xml"></suite-file>
+    </suite-files>
+</suite>

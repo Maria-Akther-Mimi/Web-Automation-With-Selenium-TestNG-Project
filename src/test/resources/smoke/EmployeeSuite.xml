@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" verbose="1" name="Orange HRM Portal Automation">
+    <test name="Create New Employee">
+        <groups>
+            <run>
+                <include name="smoke"></include>
+            </run>
+        </groups>
+        <classes>
+            <class name="testrunner.EmployeeTestRunner"/>
+        </classes>
+    </test>
+    <test name="Login by new employee">
+        <groups>
+            <run>
+                <include name="smoke"></include>
+            </run>
+        </groups>
+        <classes>
+            <class name="testrunner.UserTestRunner"/>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="Orange HRM demo automation">
+    <suite-files>
+        <suite-file path="regression/LoginSuite.xml"></suite-file>
+        <suite-file path="regression/EmployeeSuite.xml"></suite-file>
+    </suite-files>
+</suite>

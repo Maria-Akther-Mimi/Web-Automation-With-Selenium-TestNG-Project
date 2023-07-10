@@ -1,0 +1,7 @@
+.gradle
+.idea
+build
+gradle
+src/test/resources/screenshots
+allure-report
+allure-results
