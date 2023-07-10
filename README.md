@@ -1,11 +1,15 @@
-# OrangeHRM_Automation_Using_TestNG
+# Web(OrangeHRM)-Automation-With-Selenium-TestNG-Project
+
 
 ## Technology used:
 - Java
 - Intellij idea
 - Allure
 
-## Framework used:
+## Tool used in this Project
+ - Selenium
+
+## Framework used in this Project:
   - TestNG
 
 ## Scenario
@@ -28,7 +32,7 @@ For a strong password, please use a hard to guess combination of text with upper
 - Logout the user
 
 ## Test Cases
-https://docs.google.com/spreadsheets/d/1t9Tk007j3RzmURG6j99aO_2LvmsKvgYc06PFjAnPqSM/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1Dd1rVF3xFnJ6j2MZ8QOLUWyCOfSwKKaa/edit?usp=drive_link&ouid=109073001623741005951&rtpof=true&sd=true
 
 ## How to run this project
 - Clone this project
@@ -39,9 +43,9 @@ https://docs.google.com/spreadsheets/d/1t9Tk007j3RzmURG6j99aO_2LvmsKvgYc06PFjAnP
   ```allure serve allure-results```
 
 ## Allure Report
-![Allure_Overview](https://github.com/fariha28345/OrangeHRM_Automation_Using_TestNG/assets/50767962/6daa8116-7cfb-42c8-9bbb-e358ddfea122)
-![Allure_behaivor](https://github.com/fariha28345/OrangeHRM_Automation_Using_TestNG/assets/50767962/e85d63ce-58ce-4780-b62f-ae13233177ae)
+https://drive.google.com/file/d/1APaxYFvK9FGU-dyD7oILuI6gityKNdoG/view?usp=drive_link
+https://drive.google.com/file/d/1-tjwKrVxvCLbQy6Ex8VXzM2k3g56xd5i/view?usp=drive_link
 
-## Automation Output Video
-https://github.com/fariha28345/OrangeHRM_Automation_Using_TestNG/assets/50767962/0b243e58-963a-464b-9815-6205106a3490
+## Automation(TestNG) Output Video
+https://drive.google.com/file/d/1AUgoja_nTfn3GC4mhvJwYINCO6okh8ms/view?usp=drive_link
 
