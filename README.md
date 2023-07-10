@@ -36,9 +36,10 @@ https://docs.google.com/spreadsheets/d/1Dd1rVF3xFnJ6j2MZ8QOLUWyCOfSwKKaa/edit?us
 
 ## How to run this project
 - Clone this project
-- To run Master suite (regression testing) hit this command ```gradle clean test -PsuiteFile="MasterSuite.xml"```
-- To run SmokeMaster suite (smoke testing) hit this command ```gradle clean test -PsuiteFile="SmokeMasterSuite.xml"```
-- To generate allure report hit these command  
+- Run Master suite (Regression testing) by: <br>
+-  ```gradle clean test -PsuiteFile="MasterSuite.xml"```
+- Run SmokeMaster suite (Smoke testing) by: ```gradle clean test -PsuiteFile="SmokeMasterSuite.xml"```
+- Generate allure report by these command: <br>
   ```allure generate allure-results --clean -output```  
   ```allure serve allure-results```
 
@@ -47,5 +48,4 @@ https://drive.google.com/file/d/1APaxYFvK9FGU-dyD7oILuI6gityKNdoG/view?usp=drive
 https://drive.google.com/file/d/1-tjwKrVxvCLbQy6Ex8VXzM2k3g56xd5i/view?usp=drive_link
 
 ## Automation(TestNG) Output Video
-https://drive.google.com/file/d/1AUgoja_nTfn3GC4mhvJwYINCO6okh8ms/view?usp=drive_link
-
+https://drive.google.com/file/d/1AG4GKYUXVC5ITgKV_2JshIf3dpRuGIPy/view?usp=sharing
